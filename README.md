@@ -20,7 +20,7 @@ Gemini APIを活用して、日々の生活を楽しくするLINE Botを開発�
 
 
 ## 🛠️ Tech Stack & Learning
-<img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" /><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" /><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23654FF0.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 
 [![My Skills](https://skillicons.dev/icons?i=python,vscode,github,windows,gmail,fastapi,gcp,firebase)](https://skillicons.dev)
 
