@@ -1,14 +1,12 @@
 # miki-mini
 
-🔰 はじめまして！
-現在、PythonとAI技術を独学で勉強中です。
-Gemini APIを活用して、日々の生活を楽しくするLINE Botを開発しています。
+👋 はじめまして！ / Nice to meet you!
+現在、PythonとAI技術を独学で勉強中です。Gemini APIを活用して、日々の生活を楽しくするLINE Botを開発しています。 I am currently self-studying Python and AI technologies. I develop LINE bots using the Gemini API to make daily life more enjoyable.
 
-**🤖 開発スタイル**
-AI（Gemini）を活用した AIネイティブな開発スタイル を実践しています。設計と仕様策定を私が行い、コーディングとテストをAIとペアプログラミングすることで、高速かつ高品質な開発 を実現しています。
+🤖 開発スタイル / Development Style
+AI (Gemini) を活用したAIネイティブな開発スタイルを実践しています。設計と仕様策定を私が行い、コーディングとテストをAIとペアプログラミングすることで、高速かつ高品質な開発を実現しています。 I practice an "AI-native" development style using Gemini. I handle the design and specifications, while pairing with AI for coding and testing to achieve high-quality, rapid development.
 
-まだ勉強中のため、コードに至らない点があるかもしれませんが、
-アドバイスや改善のプルリクエストをいただけると飛び上がって喜びます！
+まだ勉強中のため、コードに至らない点があるかもしれませんが、アドバイスや改善のプルリクエストをいただけると飛び上がって喜びます！ I'm still learning, so please feel free to give me feedback or pull requests. I'd be thrilled to hear from you!
 
 
 ### ❤️ Love Google Tech
