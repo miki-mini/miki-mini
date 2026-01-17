@@ -14,7 +14,9 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GAS](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)![Google Maps Platform](https://img.shields.io/badge/Google_Maps_Platform-%234285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white)
-
+![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Cloud Innovator](https://img.shields.io/badge/Google_Cloud-Innovator-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Profile](https://img.shields.io/badge/Google-Developer_Profile-4285F4?style=flat-square&logo=google&logoColor=white)
 
 
 ## 🛠️ Tech Stack & Learning
