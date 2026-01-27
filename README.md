@@ -8,7 +8,18 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 
 まだ勉強中のため、コードに至らない点があるかもしれませんが、アドバイスや改善のプルリクエストをいただけると飛び上がって喜びます！ I'm still learning, so please feel free to give me feedback or pull requests. I'd be thrilled to hear from you!
 
-
+### 🎖️ Technical Achievements
+<p align="left">
+  <a href="https://lapras.com/public/miki-mini">
+    <img src="https://img.shields.io/badge/LAPRAS-399%20EXP-00c2b8?style=for-the-badge&logo=lapras&logoColor=white" alt="LAPRAS EXP">
+  </a>
+  <a href="https://lapras.com/public/miki-mini">
+    <img src="https://img.shields.io/badge/AI%20Review-4.2-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="AI Review">
+  </a>
+  <a href="https://lapras.com/public/miki-mini">
+    <img src="https://img.shields.io/badge/Weekly%20Ranking-115th-ff6b6b?style=for-the-badge" alt="Weekly Ranking">
+  </a>
+</p>
 
 ### ❤️ Love Google Tech
 
@@ -32,5 +43,4 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 ![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)
 
 [![My Skills](https://skillicons.dev/icons?i=python,vscode,github,windows,gmail,fastapi,gcp,firebase)](https://skillicons.dev)
-
 
