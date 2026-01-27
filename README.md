@@ -11,7 +11,7 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 
 <div align="center">
   <a href="https://lapras.com/public/EUPKMNZ">
-    <img src="https://lapras-card-generator.vercel.app/api/svg?e=4.39&b=3.67&i=3.69&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" alt="LAPRAS Score">
+    <img src="https://lapras-card-generator.vercel.app/api/svg?e=4.39&b=3.67&i=3.69&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" alt="LAPRAS Score" style="width: 40%;">
   </a>
 </div>
 
