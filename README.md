@@ -8,7 +8,13 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 
 まだ勉強中のため、コードに至らない点があるかもしれませんが、アドバイスや改善のプルリクエストをいただけると飛び上がって喜びます！ I'm still learning, so please feel free to give me feedback or pull requests. I'd be thrilled to hear from you!
 
-[![LAPRAS Score](https://lapras-card.vercel.app/api/badge/miki-mini?type=score)](https://lapras.com/public/EUPKMNZ)
+
+<div align="center">
+  <a href="https://lapras.com/public/EUPKMNZ">
+    <img src="https://lapras-card-generator.vercel.app/api/svg?e=4.39&b=3.67&i=3.69&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" alt="LAPRAS Score">
+  </a>
+</div>
+
 
 ### 📝 Latest Blog Posts
 
