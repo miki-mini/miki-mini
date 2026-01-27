@@ -1,0 +1,21 @@
+name: Latest Blog Posts Workflow
+on:
+  schedule:
+    # 1日に1回、自動でチェックしに行きます（時間はUTC）
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 手動で今すぐ実行したい時用
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in Zenn posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # あなたのZennのRSSフィードURLです
+          feed_list: "https://zenn.dev/miki_mini/feed"
+          # 表示する記事の数
+          max_post_count: 5
