@@ -12,7 +12,8 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 
 
 ### 📝 Latest Blog Posts
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 🎖️ Technical Achievements
 <p align="left">
