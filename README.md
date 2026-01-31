@@ -13,6 +13,11 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [【Unity】Cesium for Unityのインストールで2日間ハマった話（未解決・一旦保留）【個人開発】](https://zenn.dev/miki_mini/articles/9a15e03057581c)
+- [Terraform × GCP｜手動4時間を3分に短縮。個人開発を加速させる「永続的インフラ」の作り方🚀](https://zenn.dev/miki_mini/articles/091e7cef00c704)
+- [【個人開発】動物年齢翻訳アプリ「見守りレトリバー」🐕ペットは人間でいうと何歳？](https://zenn.dev/miki_mini/articles/816320cdacc065)
+- [【個人開発】「片付け嫌だな…」から「片付けたくて眠れない！」へ🦝AIアライグマと挑む楽しいお片付けアプリ](https://zenn.dev/miki_mini/articles/0b651846b5986c)
+- [【個人開発】2Dの壁を突破！バックエンド志向がGeminiと挑む、3D空間の「触れる」バーチャル水族館🐟✨](https://zenn.dev/miki_mini/articles/6e547618fec22d)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎖️ Technical Achievements
