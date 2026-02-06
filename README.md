@@ -20,18 +20,9 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 - [【個人開発】「片付け嫌だな…」から「片付けたくて眠れない！」へ🦝AIアライグマと挑む楽しいお片付けアプリ](https://zenn.dev/miki_mini/articles/0b651846b5986c)
 <!-- BLOG-POST-LIST:END -->
 
-### 🎖️ Technical Achievements
-<p align="left">
-  <a href="https://lapras.com/public/miki-mini">
-    <img src="https://img.shields.io/badge/LAPRAS-399%20EXP-00c2b8?style=for-the-badge&logo=lapras&logoColor=white" alt="LAPRAS EXP">
-  </a>
-  <a href="https://lapras.com/public/miki-mini">
-    <img src="https://img.shields.io/badge/AI%20Review-4.2-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="AI Review">
-  </a>
-  <a href="https://lapras.com/public/miki-mini">
-    <img src="https://img.shields.io/badge/Weekly%20Ranking-115th-ff6b6b?style=for-the-badge" alt="Weekly Ranking">
-  </a>
-</p>
+### 🏆 Zenn Trending Articles
+[![Zenn Trend](https://img.shields.io/badge/Zenn_Trend-Googleの城×Claude神コラボ✨-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/miki_mini/articles/a591e9d6954600)
+[![Zenn Trend](https://img.shields.io/badge/Zenn_Trend-最強のCI/CD🏰-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/miki_mini/articles/c3cb49f45dcc8e)
 
 ### ❤️ Love Google Tech
 
