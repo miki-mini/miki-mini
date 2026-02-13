@@ -36,7 +36,7 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 ![Innovator](https://img.shields.io/badge/Google_Cloud-Innovator-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white)
 
-## 🛠️ Tech Stack & Learning
+### 🛠️ Tech Stack & Learning
 <img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" /><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23654FF0.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
@@ -47,3 +47,8 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 
 [![My Skills](https://skillicons.dev/icons?i=python,vscode,github,windows,gmail,fastapi,gcp,firebase)](https://skillicons.dev)
 
+### 🔥 Favorite Quote / 座右の銘
+
+> 「落ちこぼれでも必死に努力すりゃエリートを超えることがあるかもよ」
+> 
+> *(Even a low-class warrior can surpass an elite if they try hard enough.)*
