@@ -13,11 +13,11 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [【UX考察】通勤を「絶望」から「癒やし」へ。2070年の重力駆動スライダー「モフモフトンネル」構想](https://zenn.dev/miki_mini/articles/57a6c5edf3eee1)
 - [Gemini・Claude・ChatGPT・GrokでAI会議したら神々の遊びだった](https://zenn.dev/miki_mini/articles/7e9dcd29aa7dc7)
 - [未経験が作ったゲームの『隠しコマンド』見つけられますか？](https://zenn.dev/miki_mini/articles/1f274766d4cc6f)
 - [Gemini信者の失敗談と、AIとの付き合い方](https://zenn.dev/miki_mini/articles/daf0e3dfb96c79)
 - [【初心者用】Geminiの弟『Gemma3』をPCに召喚！催眠術と長期記憶を授けて住んでもらった話](https://zenn.dev/miki_mini/articles/28a703ebe8b500)
-- [【Cloud Run v2】デフォルト設定の罠！cpu_idleを書き忘れて請求予測¥6,408になった話（Terraform）](https://zenn.dev/miki_mini/articles/e1ea18f8811687)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🏆 Zenn Trending Articles
