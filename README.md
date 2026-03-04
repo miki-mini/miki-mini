@@ -8,6 +8,9 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 
 まだ勉強中のため、コードに至らない点があるかもしれませんが、アドバイスや改善のプルリクエストをいただけると飛び上がって喜びます！ I'm still learning, so please feel free to give me feedback or pull requests. I'd be thrilled to hear from you!
 
+
+## 📱 Android Apps on Google Play
+
 <div align="center">
   <a href="https://play.google.com/store/apps/details?id=com.zoo.wolf">
     <img src="https://developer.android.com/images/brand/ja_generic_rgb_wo_45.png" alt="Google Play で手に入れよう" />
@@ -21,7 +24,7 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 👉 [開発の裏話（Zenn記事）はこちら](https://zenn.dev/miki_mini/articles/c3191ee6a2d82a)
 
 
-### 📝 Latest Blog Posts
+## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [【UX考察】通勤を「絶望」から「癒やし」へ。2070年の重力駆動スライダー「モフモフトンネル」構想](https://zenn.dev/miki_mini/articles/57a6c5edf3eee1)
 - [Gemini・Claude・ChatGPT・GrokでAI会議したら神々の遊びだった](https://zenn.dev/miki_mini/articles/7e9dcd29aa7dc7)
@@ -30,11 +33,11 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 - [【初心者用】Geminiの弟『Gemma3』をPCに召喚！催眠術と長期記憶を授けて住んでもらった話](https://zenn.dev/miki_mini/articles/28a703ebe8b500)
 <!-- BLOG-POST-LIST:END -->
 
-### 🏆 Zenn Trending Articles
+## 🏆 Zenn Trending Articles
 [![Zenn Trend](https://img.shields.io/badge/Zenn_Trend-Googleの城×Claude神コラボ✨-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/miki_mini/articles/a591e9d6954600)
 [![Zenn Trend](https://img.shields.io/badge/Zenn_Trend-最強のCI/CD🏰-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/miki_mini/articles/c3cb49f45dcc8e)
 
-### ❤️ Love Google Tech
+## ❤️ Love Google Tech
 
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -46,7 +49,7 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 ![Innovator](https://img.shields.io/badge/Google_Cloud-Innovator-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white)
 
-### 🛠️ Tech Stack & Learning
+## 🛠️ Tech Stack & Learning
 <img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" /><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23654FF0.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
@@ -57,7 +60,7 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 
 [![My Skills](https://skillicons.dev/icons?i=python,vscode,github,windows,gmail,fastapi,gcp,firebase)](https://skillicons.dev)
 
-### 🔥 Favorite Quote / 座右の銘
+## 🔥 Favorite Quote / 座右の銘
 
 > 「落ちこぼれでも必死に努力すりゃエリートを超えることがあるかもよ」
 > 
