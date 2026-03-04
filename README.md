@@ -8,7 +8,17 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 
 まだ勉強中のため、コードに至らない点があるかもしれませんが、アドバイスや改善のプルリクエストをいただけると飛び上がって喜びます！ I'm still learning, so please feel free to give me feedback or pull requests. I'd be thrilled to hear from you!
 
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.zoo.wolf">
+    <img src="https://developer.android.com/images/brand/ja_generic_rgb_wo_45.png" alt="Google Play で手に入れよう" />
+  </a>
+</div>
 
+### 🐺 WOLF SHADOWING
+
+初心者がゼロからGoogle Playリリースの壁を突破した、魂の1作です。
+
+👉 [開発の裏話（Zenn記事）はこちら](https://zenn.dev/miki_mini/articles/c3191ee6a2d82a)
 
 
 ### 📝 Latest Blog Posts
