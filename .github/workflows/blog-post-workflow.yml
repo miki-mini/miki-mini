@@ -5,13 +5,17 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
-permissions:  # ← これを追加
+permissions:
   contents: write
 
 jobs:
   update-readme-with-blog:
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
+    # ↓ これを追加して Node.js 24 を使うように伝えます
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+      
     steps:
       - name: Checkout
         uses: actions/checkout@v4
