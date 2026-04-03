@@ -26,11 +26,11 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AIにインフラを作らせたらClaudeとGeminiで意見が割れた。GCPで実証したらGeminiが正しかった件](https://zenn.dev/miki_mini/articles/59044eddaa12cd)
 - [SNSが怖い陰キャ初心者だから、フォロワーがAI猫だけのプライベートSNSを作った話](https://zenn.dev/miki_mini/articles/e452a4105780e3)
 - [胃袋のアーキテクチャを理解したら、チョコより先に腹筋が必要だとわかった話](https://zenn.dev/miki_mini/articles/f1e36465f03ef1)
 - [引きこもり初心者が「太陽アレルギー」を武器にしたら、ドラキュラ生存アプリができた話](https://zenn.dev/miki_mini/articles/d6848a17626e4f)
 - [純度100%のポエムに、LAPRAS AIは何点をつけるのか？〜技術ゼロの挑戦状〜](https://zenn.dev/miki_mini/articles/67ffef624038fb)
-- [草は生えてたのに世界から消えていた——GitHubステルス制限の罠にはまった話](https://zenn.dev/miki_mini/articles/f6640b33cbfbeb)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 Zenn Trending Articles
