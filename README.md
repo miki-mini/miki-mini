@@ -26,11 +26,11 @@ AI (Gemini) を活用したAIネイティブな開発スタイルを実践して
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AIは鏡です。あなたはどんな未来を映していますか？](https://zenn.dev/miki_mini/articles/7a51668ff728d8)
 - [コスト0円縛りのAIに「予算無制限」を与えたら、ロードバランサーを召喚して自爆した話](https://zenn.dev/miki_mini/articles/3c92efc110f6bd)
 - [チャットするだけで予約してくれる。GeminiのAntigravityを一般の方に全力で推す理由](https://zenn.dev/miki_mini/articles/85f88107a1c4b6)
 - [AIにインフラを作らせたらClaudeとGeminiで意見が割れた。GCPで実証したらGeminiが正しかった件](https://zenn.dev/miki_mini/articles/59044eddaa12cd)
 - [SNSが怖い陰キャ初心者だから、フォロワーがAI猫だけのプライベートSNSを作った話](https://zenn.dev/miki_mini/articles/e452a4105780e3)
-- [胃袋のアーキテクチャを理解したら、チョコより先に腹筋が必要だとわかった話](https://zenn.dev/miki_mini/articles/f1e36465f03ef1)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 Zenn Trending Articles
