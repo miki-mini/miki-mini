@@ -1,5 +1,13 @@
 # miki-mini
 
+> [!WARNING]
+> 🦊 **Notice: リポジトリ移転のお知らせ (Migrated to GitLab)**
+> 
+> 開発拠点をGitLabへ完全移行しました。
+> 最新のソースコードや自動化パイプラインは以下のGitLabリポジトリで公開しています！
+> 
+> 👉 https://gitlab.com/miki-mini
+
 👋 はじめまして！ / Nice to meet you!
 現在、PythonとAI技術を独学で勉強中です。Gemini APIを活用して、日々の生活を楽しくするLINE Botを開発しています。 I am currently self-studying Python and AI technologies. I develop LINE bots using the Gemini API to make daily life more enjoyable.
 
